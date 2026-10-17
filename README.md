@@ -1,1 +1,1 @@
-# IRAQ
+# FURY BotMulti-gateway CC checker Telegram Bot.## Gates- Stripe Auth- Braintree Charge ($3.05)- NMI Charge (£1.00)## Deploy on Railway1. Fork this repo2. Create New Project  Deploy from GitHub3. Add Volume mounted at `/app/Data`4. Set Region: US East5. Deploy## Commands- `/start` — Main menu- `/st` — Stripe single check- `/bc` — Braintree single check- `/nmi` — NMI single check- `/proxy add` — Add proxy- ... (see /start for full list)

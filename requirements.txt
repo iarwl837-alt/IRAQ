@@ -1,0 +1,4 @@
+pyTelegramBotAPI
+faker
+requests
+urllib3
